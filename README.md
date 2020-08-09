@@ -1,6 +1,6 @@
 # Horiseon Social Solution Services, Inc. README.md
 
-**Changes made to Starter Code**
+## Changes Made to Starter Code
 
     Starter code plus a few changes to the Header
 
@@ -40,6 +40,8 @@
 
         -Organized the css properties to follow the structure of the HTML
 
-## Screenshot of Finished site
-![ScreenShot](screenshot.png)
+## Screenshot of Finished Site
+![ScreenShot](./Develop/assets/images/screenshot.jpg "Finished Website")
+
+
 
