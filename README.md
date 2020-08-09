@@ -41,7 +41,13 @@
         -Organized the css properties to follow the structure of the HTML
 
 ## Screenshot of Finished Site
-![ScreenShot](./Develop/assets/images/screenshot.jpg "Finished Website")
+![ScreenShot](./assets/images/screenshot.jpg "Finished Website")
+
+## Links to Repository and Webpage
+
+https://github.com/JonathanSaunders98/horiseon-social-solutions
+
+https://jonathansaunders98.github.io/horiseon-social-solutions/
 
 
 
