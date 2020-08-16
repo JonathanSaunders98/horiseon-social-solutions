@@ -1,5 +1,8 @@
 # Horiseon Social Solution Services, Inc. README.md
 
+A simple page showing off what services that Horiseon offers such as: search engine optimization, online reputation management, and social media marketing. The SEO is Horiseon stands for Search Engine Optimization!
+
+
 ## Changes Made to Starter Code
 
     Starter code plus a few changes to the Header
@@ -41,13 +44,15 @@
         -Organized the css properties to follow the structure of the HTML
 
 ## Screenshot of Finished Site
-![ScreenShot](./assets/images/screenshot.jpg "Finished Website")
+![ScreenShot](./assets/images/screenshot.jpg?raw=true "Finished Website")
 
 ## Links to Repository and Webpage
 
-https://github.com/JonathanSaunders98/horiseon-social-solutions
+[Repository for this Project](https://github.com/JonathanSaunders98/horiseon-social-solutions)
 
-https://jonathansaunders98.github.io/horiseon-social-solutions/
+[Link to Website](https://jonathansaunders98.github.io/horiseon-social-solutions/)
+
+
 
 
 
